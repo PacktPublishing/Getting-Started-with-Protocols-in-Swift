@@ -19,15 +19,15 @@ By the end of the course you'll be ready to use protocols in production to impro
 To fully benefit from the coverage included in this course, you will need:<br/>
 If you are a Swift Developer who is keen to improve the flexibility, maintainability, and reusability of your code, this video is for you. Don't worry if you have no experience at all with protocols in Swift; we'll start right from the basics of what protocols are and how you define them.			
 ### Technical Requirements
-This course has the following software requirements:<br/>
-OS: Linux
-Processor: 3.2 GHz
-Memory: 8 GB
-Storage: 500 GB
+<UL>
+<LI>OS: Linux</LI>
+<LI>Processor: 3.2 GHz</LI>
+<LI>Memory: 8 GB</LI>
+<LI>Storage: 500 GB</LI>
 
-Software Requirements
-Operating system: Linux, Windows or Mac
-Browser: Chrome Latest 
+### Software Requirements
+<LI>Operating system: Linux, Windows or Mac</LI>
+<LI>Browser: Chrome Latest</LI></UL> 
 
 
 ## Related Products
